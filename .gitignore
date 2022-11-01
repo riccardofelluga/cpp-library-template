@@ -1,0 +1,17 @@
+# macOS
+.DS_store
+
+# build folder
+/build
+
+# bin folder
+/bin
+
+# vscode folder
+/.vscode
+
+# visual studio folder
+/.vs
+
+# visual studio cmake settings, uncomment to remove tracking
+# CMakeSettings.json
